@@ -1,16 +1,20 @@
-# CodeSentinel_ProductCardDesign  
+# CodeSentinel_ProductCardDesign
 
-A **Responsive Product Card** built with **HTML & CSS**.  
-The design adjusts seamlessly across desktop and mobile devices.  
+A **Responsive Product Card** built with **HTML & CSS**.
 
-## Features  
-- Clean and minimal design  
-- Fully responsive layout  
-- Separate `index.html` and `style.css` files  
+## Features
+- Displays Product Image, Name, Price, and Description
+- Fully Responsive Design
+- Clean and Modern UI
 
-## Files  
-- `index.html` → Contains the structure of the product card  
-- `style.css` → Contains the styling and responsiveness  
+## Tools & Technologies
+- HTML
+- CSS
+- VS Code
+- Git & GitHub
 
-## Preview  
-(Add a screenshot here later, or deploy on GitHub Pages and share the live link 🚀)
+## Preview
+(Screenshot or short video can be added here)
+
+GitHub Repo: [CodeSentinel_ProductCardDesign](https://github.com/Abiha439/CodeSentinel_ProductCardDesign)
+
